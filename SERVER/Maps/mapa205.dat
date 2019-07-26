@@ -1,0 +1,24 @@
+[MAPA211]
+Name=Olimpo de los Dioses
+MusicNum=81
+MagiaSinefecto=1
+InviSinEfecto=1
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=No
+BackUp= 1
+Pk=1
+[MAPA205]
+Name=Olimpo de los Dioses
+MusicNum=103
+MagiaSinefecto=1
+InviSinEfecto=1
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=No
+BackUp= 1
+Pk=1

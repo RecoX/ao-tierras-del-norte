@@ -1,0 +1,24 @@
+[MAPA163]
+Name=Fuerte Maya
+MusicNum=20
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=No
+BackUp= 1
+Pk=0
+[MAPA196]
+Name=Fuerte Maya
+MusicNum=118
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=DUNGEON
+Restringir=No
+BackUp= 0
+Pk=0

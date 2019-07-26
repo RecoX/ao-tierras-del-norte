@@ -1,0 +1,12 @@
+[MAPA210]
+Name=Entrada a Inframundo Maya
+MusicNum=94
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=No
+BackUp= 1
+Pk=0
